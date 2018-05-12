@@ -1,0 +1,34 @@
+_repo: Climbing-on-the-Himalaya-and-Other-Mountain-Ranges_45747
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45747-h/images/cover_image.jpg
+creator:
+  author:
+    agent_name: Collie, Norman
+    alias: Collie, John Norman
+    birthdate: 1859
+    deathdate: 1942
+    gutenberg_agent_id: '43434'
+    url: http://www.gutenberg.org/2009/agents/43434
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45747'
+  lccn: 03006938
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Mountaineering'
+- !lcc 'G'
+- !lcsh 'Himalaya Mountains'
+tableOfContents: The Himalaya -- The Canadian Rocky Mountains -- The Alps -- The Lofoten
+  Islands -- A Chuilionn -- The mountains of Ireland -- Prehistoric climbing near
+  Wastdale Head -- A reverie -- The oromaniacal quest -- Fragment from a lost ms.
+  -- Notes on the Himalayan Mountains -- Index.
+title: Climbing on the Himalaya and Other Mountain Ranges
+url: http://www.gutenberg.org/ebooks/45747
