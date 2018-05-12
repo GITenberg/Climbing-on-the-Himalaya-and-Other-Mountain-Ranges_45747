@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43434'
     url: http://www.gutenberg.org/2009/agents/43434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45747#Climbing-on-the-Himalaya-and-Other-Mountain-Ranges
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
